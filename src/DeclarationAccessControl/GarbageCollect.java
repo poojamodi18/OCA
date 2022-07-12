@@ -5,17 +5,19 @@ public class GarbageCollect {
         StringBuffer stringBuffer = new StringBuffer("Buffer");
         System.out.println(stringBuffer);
         StringBuffer buffer = new StringBuffer("Garbage");
-        System.out.println(buffer);
-        {
-            buffer = new StringBuffer("2nd Object");
-            System.gc();
-            System.runFinalization();
-        }
+        StringBuffer bufferVal = new StringBuffer("Collect");
+
         //null the reference
         stringBuffer = null;
         System.out.println(stringBuffer);
 
+
         System.out.println(buffer);
-//        System.gc();
+        //reassigning variable
+        buffer = bufferVal;
+
+        System.out.println(buffer);
+
+
     }
 }
