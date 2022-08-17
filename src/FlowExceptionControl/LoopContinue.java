@@ -19,6 +19,11 @@ public class LoopContinue {
         s.substring(0, 2);
         System.out.println(s);
 
+        int i1 = 1_234;
+        double d4 = 1_234.0;
+
+        System.out.println(i1);
+        System.out.println(d4);
 
 
     }

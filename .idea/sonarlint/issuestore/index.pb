@@ -1,0 +1,30 @@
+
+Q
+!src/ObjectOrientation/Animal.java,0\a\0a409c838e9c968ad4b01b55555aaad90a27d0c3
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+O
+src/ObjectOrientation/Main.java,7\7\776f678205e191d3a8120fbad6c063c0b01a1459
+L
+src/Assignment/Literals.java,9\a\9ab3a99eeb672947e22ccaefc4095ce407e3ad29
+P
+ src/ObjectOrientation/Block.java,6\4\640dea65208479a496659c62f657dceb8f43ddff
+Y
+)src/FlowExceptionControl/NullPointer.java,f\0\f095c6be7e231baeae342279e0803e677138743e
+O
+src/ObjectOrientation/Hawk.java,3\1\3177e553cb3e59c64ebb2614b24ef3ac4cadbcdc
+W
+'src/FlowExceptionControl/StackOver.java,4\e\4ee8864ea92bc4bdba6049561965cc4d0fd77be5
+Y
+)src/DeclarationAccessControl/EnumUse.java,e\2\e2893a5ba58703a97c0d432a1a9ea18b01666ad3
+Y
+)src/StrinngArrayListLambda/LambdaExp.java,7\0\70dfec3e6629d62c175a60c8ed441726d2e31009
+Z
+*src/StrinngArrayListLambda/ListRemove.java,1\1\118dadbff2a8147f6277e7372ec98d1a755555ae
+`
+0src/DeclarationAccessControl/GarbageCollect.java,1\d\1d29834b6a00fedd84f8b7f7f1cd9b76050250e9
+S
+#src/Operators/InstanceVariable.java,f\b\fb057f91823950c5e2eef3a9340b027bba857400
+V
+&src/FlowExceptionControl/IfAndFor.java,6\4\64c60f136fed6937ab333f63fe03502d55753d71
